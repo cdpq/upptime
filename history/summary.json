@@ -40,9 +40,9 @@
     "url": "https://www.novaboeuf.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/www.novaboeuf.ca.ico",
     "slug": "novaboeuf-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "94.56%",
+    "uptimeDay": "94.52%",
     "uptimeWeek": "98.25%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "98.25%",
@@ -52,7 +52,7 @@
     "timeMonth": 351,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2025-01-07": 78,
+      "2025-01-07": 79,
       "2025-01-04": 29
     }
   },
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-07": 1337,
+      "2025-01-07": 1354,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
       "2025-01-04": 1440,
